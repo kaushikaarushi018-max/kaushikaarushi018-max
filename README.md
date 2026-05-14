@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aarushi 👋
 
-<!--
-**kaushikaarushi018-max/kaushikaarushi018-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Data Scientist
+- 🔭 Currently working on ML and deep learning projects
+- 💡 Passionate about high-impact machine learning — from NLP 
+and computer vision to deep learning and MLOps. Focused on 
+domains where data science is most in demand and creating 
+real-world change.
 
-Here are some ideas to get you started:
+## Featured Project
+### 🚨 Real-Time Financial Market Anomaly Detection
+Built an end-to-end anomaly detection system using:
+- Isolation Forest + LSTM Autoencoder ensemble
+- Python, TensorFlow, MySQL, SQLAlchemy
+- Detected real market events including April 2025 crash
+🔗 [View Project](https://github.com/kaushikaarushi018-max/market_anomaly_detection)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | TensorFlow | scikit-learn | MySQL | pandas | numpy
+
+## Connect With Me
+[LinkedIn](linkedin.com/in/aarushisharmak)
